@@ -1,0 +1,12 @@
+F:\One Drive\OneDrive\Vincent\Programming\C Sharp\Projects\MathLibrary\MathLibrary\bin\Debug\MathLibrary.dll
+F:\One Drive\OneDrive\Vincent\Programming\C Sharp\Projects\MathLibrary\MathLibrary\bin\Debug\MathLibrary.pdb
+F:\One Drive\OneDrive\Vincent\Programming\C Sharp\Projects\MathLibrary\MathLibrary\obj\Debug\MathLibrary.csprojAssemblyReference.cache
+F:\One Drive\OneDrive\Vincent\Programming\C Sharp\Projects\MathLibrary\MathLibrary\obj\Debug\MathLibrary.csproj.CoreCompileInputs.cache
+F:\One Drive\OneDrive\Vincent\Programming\C Sharp\Projects\MathLibrary\MathLibrary\obj\Debug\MathLibrary.dll
+F:\One Drive\OneDrive\Vincent\Programming\C Sharp\Projects\MathLibrary\MathLibrary\obj\Debug\MathLibrary.pdb
+F:\One Drive\OneDrive\Vincent\Vincent Lab\videos\todo\Return objects and evoke classes\Project\MathLibrary\MathLibrary\bin\Debug\MathLibrary.dll
+F:\One Drive\OneDrive\Vincent\Vincent Lab\videos\todo\Return objects and evoke classes\Project\MathLibrary\MathLibrary\bin\Debug\MathLibrary.pdb
+F:\One Drive\OneDrive\Vincent\Vincent Lab\videos\todo\Return objects and evoke classes\Project\MathLibrary\MathLibrary\obj\Debug\MathLibrary.csproj.CoreCompileInputs.cache
+F:\One Drive\OneDrive\Vincent\Vincent Lab\videos\todo\Return objects and evoke classes\Project\MathLibrary\MathLibrary\obj\Debug\MathLibrary.dll
+F:\One Drive\OneDrive\Vincent\Vincent Lab\videos\todo\Return objects and evoke classes\Project\MathLibrary\MathLibrary\obj\Debug\MathLibrary.pdb
+F:\One Drive\OneDrive\Vincent\Vincent Lab\videos\todo\Return objects and evoke classes\Project\MathLibrary\MathLibrary\obj\Debug\MathLibrary.csprojAssemblyReference.cache

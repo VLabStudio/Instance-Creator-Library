@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OhNfcphdmYbbJJn5mENAI4tgQeP+E6w3EBbnMZsgOcaP/VoB1sIFFxc4uYHyQ7yhe8AOL11c82JWK08nI/z9dg==",
+  "success": true,
+  "projectFilePath": "F:\\One Drive\\OneDrive\\Vincent\\Programming\\C Sharp\\Projects\\InstanceCreatorLibrary\\source\\1.0.0\\InstanceCreatorLibrary\\InstanceCreatorLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vincent608\\.nuget\\packages\\dllexport\\1.7.1\\dllexport.1.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

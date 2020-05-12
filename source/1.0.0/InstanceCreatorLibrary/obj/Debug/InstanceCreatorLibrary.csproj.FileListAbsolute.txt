@@ -1,0 +1,18 @@
+F:\One Drive\OneDrive\Vincent\Vincent Lab\videos\todo\Return objects and evoke classes\Project\MathLibrary\MathLibrary\obj\Debug\InstanceCreatorLibrary.csproj.CoreCompileInputs.cache
+F:\One Drive\OneDrive\Vincent\Vincent Lab\videos\todo\Return objects and evoke classes\Project\MathLibrary\MathLibrary\obj\Debug\InstanceCreatorLibrary.csprojAssemblyReference.cache
+F:\One Drive\OneDrive\Vincent\Vincent Lab\videos\todo\Return objects and evoke classes\Project\MathLibrary\MathLibrary\bin\Debug\InstanceCreatorLibrary.dll
+F:\One Drive\OneDrive\Vincent\Vincent Lab\videos\todo\Return objects and evoke classes\Project\MathLibrary\MathLibrary\bin\Debug\InstanceCreatorLibrary.pdb
+F:\One Drive\OneDrive\Vincent\Vincent Lab\videos\todo\Return objects and evoke classes\Project\MathLibrary\MathLibrary\obj\Debug\InstanceCreatorLibrary.dll
+F:\One Drive\OneDrive\Vincent\Vincent Lab\videos\todo\Return objects and evoke classes\Project\MathLibrary\MathLibrary\obj\Debug\InstanceCreatorLibrary.pdb
+F:\One Drive\OneDrive\Vincent\Programming\C Sharp\Projects\InstanceCreatorLibrary\source\1.0.0\MathLibrary\bin\Debug\InstanceCreatorLibrary.dll
+F:\One Drive\OneDrive\Vincent\Programming\C Sharp\Projects\InstanceCreatorLibrary\source\1.0.0\MathLibrary\bin\Debug\InstanceCreatorLibrary.pdb
+F:\One Drive\OneDrive\Vincent\Programming\C Sharp\Projects\InstanceCreatorLibrary\source\1.0.0\MathLibrary\obj\Debug\InstanceCreatorLibrary.csprojAssemblyReference.cache
+F:\One Drive\OneDrive\Vincent\Programming\C Sharp\Projects\InstanceCreatorLibrary\source\1.0.0\MathLibrary\obj\Debug\InstanceCreatorLibrary.csproj.CoreCompileInputs.cache
+F:\One Drive\OneDrive\Vincent\Programming\C Sharp\Projects\InstanceCreatorLibrary\source\1.0.0\MathLibrary\obj\Debug\InstanceCreatorLibrary.dll
+F:\One Drive\OneDrive\Vincent\Programming\C Sharp\Projects\InstanceCreatorLibrary\source\1.0.0\MathLibrary\obj\Debug\InstanceCreatorLibrary.pdb
+F:\One Drive\OneDrive\Vincent\Programming\C Sharp\Projects\InstanceCreatorLibrary\source\1.0.0\InstanceCreatorLibrary\bin\Debug\InstanceCreatorLibrary.dll
+F:\One Drive\OneDrive\Vincent\Programming\C Sharp\Projects\InstanceCreatorLibrary\source\1.0.0\InstanceCreatorLibrary\bin\Debug\InstanceCreatorLibrary.pdb
+F:\One Drive\OneDrive\Vincent\Programming\C Sharp\Projects\InstanceCreatorLibrary\source\1.0.0\InstanceCreatorLibrary\obj\Debug\InstanceCreatorLibrary.csprojAssemblyReference.cache
+F:\One Drive\OneDrive\Vincent\Programming\C Sharp\Projects\InstanceCreatorLibrary\source\1.0.0\InstanceCreatorLibrary\obj\Debug\InstanceCreatorLibrary.csproj.CoreCompileInputs.cache
+F:\One Drive\OneDrive\Vincent\Programming\C Sharp\Projects\InstanceCreatorLibrary\source\1.0.0\InstanceCreatorLibrary\obj\Debug\InstanceCreatorLibrary.dll
+F:\One Drive\OneDrive\Vincent\Programming\C Sharp\Projects\InstanceCreatorLibrary\source\1.0.0\InstanceCreatorLibrary\obj\Debug\InstanceCreatorLibrary.pdb
